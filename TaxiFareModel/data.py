@@ -1,6 +1,6 @@
 import pandas as pd
 
-AWS_BUCKET_PATH = "../raw_data/train.csv"
+AWS_BUCKET_PATH = "raw_data/train.csv"
 
 
 def get_data(nrows=10_000):

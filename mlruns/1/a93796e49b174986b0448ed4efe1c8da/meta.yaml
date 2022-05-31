@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bajiks/code/Bajiks/TaxiFareModel/mlruns/1/a93796e49b174986b0448ed4efe1c8da/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: a93796e49b174986b0448ed4efe1c8da
+run_uuid: a93796e49b174986b0448ed4efe1c8da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1654021999661
+status: 1
+tags: []
+user_id: unknown
